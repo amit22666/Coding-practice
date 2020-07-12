@@ -1,0 +1,3 @@
+a[j] 5
+a[j] 7
+optimal answer idx = 4
