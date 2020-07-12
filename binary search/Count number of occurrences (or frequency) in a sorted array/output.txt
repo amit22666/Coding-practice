@@ -1,0 +1,3 @@
+result1 -1
+result2 -1
+optimal answer idx = -1
