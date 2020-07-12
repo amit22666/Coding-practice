@@ -1,0 +1,5 @@
+mid 5
+mid 8
+mid 6
+mid 7
+optimal answer idx = 500
