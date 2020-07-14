@@ -1,0 +1,3 @@
+val1 5
+val2 15
+optimal kth smallest  =47
