@@ -1,0 +1,1 @@
+optimal kth smallest  =7 optimal kth largest=10
