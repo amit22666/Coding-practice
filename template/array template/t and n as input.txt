@@ -1,0 +1,2 @@
+#include <bits/stdc++.h> //works like magic, but at cost.
+using namespace std;
